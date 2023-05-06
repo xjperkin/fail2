@@ -1,0 +1,146 @@
+
+body {
+  font-family: "Arial", "sans-serif";
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+
+.story-header {
+  background-color: #444;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+.headline {
+  font-size: 60px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: "Times New Roman", "sans-serif";
+}
+
+.deck {
+  font-size: 20px;
+  margin-top: 0px;
+  font-family: "Arial", "sans-serif";
+}
+
+.byline {
+  font-size: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: "Times New Roman", "sans-serif";
+}
+
+/* Style the body section */
+.storybody {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.photo {
+  width: 800px;
+  height: auto;
+  margin-bottom: 0px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.photo-caption {
+  font-style: italic;
+  font-size: 16px;
+  margin-top: 0px;
+}
+
+.explain {
+	font-family: "Arial", "sans-serif";
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+
+
+.first {
+  margin-top: 0;
+  margin-bottom: 30px;
+
+}
+
+.second {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.third{
+	margin-top: 0;
+  margin-bottom: 10px;
+
+}
+
+
+.map {
+	max-width: 100%;
+  height: auto;
+}
+.chart {
+	max-width: 100%;
+	height: auto;
+}
+
+.text{
+	margin-left: auto;
+	margin-right: auto;
+  max-width: 800px;
+  align-content: center;
+
+}
+
+.reason{
+	font-family: "Arial", "sans-serif"4r;
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+
+.resolution{
+	font-family: "Arial", "sans-serif";
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+
+a {
+	color: lightblue;
+	text-decoration: underline;
+	text-decoration-color: lightblue;
+	text-decoration-thickness: 1px;
+}
+
+.final{
+  font-family: "Arial", "sans-serif";
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+
+.done {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.last{
+   width: 800px;
+  height: auto;
+  margin-bottom: 0px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
